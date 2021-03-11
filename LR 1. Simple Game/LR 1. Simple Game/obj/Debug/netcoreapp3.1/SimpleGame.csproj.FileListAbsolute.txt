@@ -1,0 +1,12 @@
+D:\C++ C C#\С#\LR 1. Simple Game\LR 1. Simple Game\bin\Debug\netcoreapp3.1\SimpleGame.exe
+D:\C++ C C#\С#\LR 1. Simple Game\LR 1. Simple Game\bin\Debug\netcoreapp3.1\SimpleGame.deps.json
+D:\C++ C C#\С#\LR 1. Simple Game\LR 1. Simple Game\bin\Debug\netcoreapp3.1\SimpleGame.runtimeconfig.json
+D:\C++ C C#\С#\LR 1. Simple Game\LR 1. Simple Game\bin\Debug\netcoreapp3.1\SimpleGame.runtimeconfig.dev.json
+D:\C++ C C#\С#\LR 1. Simple Game\LR 1. Simple Game\bin\Debug\netcoreapp3.1\SimpleGame.dll
+D:\C++ C C#\С#\LR 1. Simple Game\LR 1. Simple Game\bin\Debug\netcoreapp3.1\SimpleGame.pdb
+D:\C++ C C#\С#\LR 1. Simple Game\LR 1. Simple Game\obj\Debug\netcoreapp3.1\SimpleGame.AssemblyInfoInputs.cache
+D:\C++ C C#\С#\LR 1. Simple Game\LR 1. Simple Game\obj\Debug\netcoreapp3.1\SimpleGame.AssemblyInfo.cs
+D:\C++ C C#\С#\LR 1. Simple Game\LR 1. Simple Game\obj\Debug\netcoreapp3.1\SimpleGame.csproj.CoreCompileInputs.cache
+D:\C++ C C#\С#\LR 1. Simple Game\LR 1. Simple Game\obj\Debug\netcoreapp3.1\SimpleGame.dll
+D:\C++ C C#\С#\LR 1. Simple Game\LR 1. Simple Game\obj\Debug\netcoreapp3.1\SimpleGame.pdb
+D:\C++ C C#\С#\LR 1. Simple Game\LR 1. Simple Game\obj\Debug\netcoreapp3.1\SimpleGame.genruntimeconfig.cache
