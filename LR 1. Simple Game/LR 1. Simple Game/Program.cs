@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Text.RegularExpressions;
 
@@ -33,11 +33,15 @@ namespace HangMan
             Console.WriteLine("7-Blue ");
             Console.BackgroundColor = ConsoleColor.Black;
             Console.ForegroundColor = ConsoleColor.White;
-            string A = Console.ReadLine();
-            if (!int.TryParse(A, out a)) 
+            while(true)
             {
-                Console.WriteLine("Введите целое число!");
-                return;
+                string A = Console.ReadLine();
+                if (!int.TryParse(A, out a))
+                    Console.Write("   Введите целое число!\n   Повторите попытку: ");
+                else if (a > 7 || a < 1)
+                    Console.Write("   Вы нажали неизвестную цифру...\n   Повторите попытку: ");
+                else
+                    break;
             }
             switch (a)
             {
@@ -69,12 +73,8 @@ namespace HangMan
                     Console.BackgroundColor = ConsoleColor.Black;
                     Console.ForegroundColor = ConsoleColor.Blue;
                     break;
-                default:
-                    Console.WriteLine("Вы нажали неизвестную цифру...");
-                    break;
             }
-            if (a > 7 || a < 1)
-                return;
+            
             Console.Clear();
             Console.WriteLine("               ************************    ");
             Console.WriteLine("               *       ВИСЕЛИЦА!      *    ");
@@ -173,17 +173,23 @@ namespace HangMan
             int n = 7, t = 7, check = 0;
             for (int k = 0; k < n; k++)
             {
+                string UserInput;
                 Console.Write("\n\n   Введите букву: ");
-                string UserInput = Console.ReadLine();
-                if (UserInput.Length > 1) {
-                    Console.WriteLine("   Можно вводить только одну букву...");
-                    return;
-                }
-                if (Regex.IsMatch(UserInput, @"^[а-яё]+$")) { }
-                else
+                while (true)
                 {
-                    Console.WriteLine("   Можно вводить только русские буквы...");
-                    return;
+                    UserInput = Console.ReadLine();
+                    if (UserInput.Length > 1)
+                        Console.Write("   Можно вводить только одну букву...\n   Повторите попытку: ");
+                    else
+                        break;
+                }
+                while (true)
+                {
+                    if (Regex.IsMatch(UserInput, @"^[а-яё]+$"))
+                        break;
+                    else
+                        Console.Write("   Можно вводить только русские буквы...\n   Повторите попытку: ");
+                    UserInput = Console.ReadLine();
                 }
                 Console.Write("\n   Слово: ");              
                 char[] c = UserInput.ToCharArray();
@@ -210,8 +216,6 @@ namespace HangMan
                 Console.Write("\n   Слово: ");
                 for (int i = 0; i < s.Length; i++)
                     Console.Write(underlines[i]);
-
-
                 Console.Write("\n\n   Вы ввели:");
                 if (UserInput != "")
                 {
@@ -224,17 +228,6 @@ namespace HangMan
                 }
                 for (int i = 0; i < AS.Length; i++)
                     Console.Write(" " + AS[i]);
-
-                /*char[] ar = AS.ToCharArray(0, s.Length);
-                for (int i = 0; i < 7 + s.Length; i++)
-                    if (AS[i++] == AS[i])
-                    {
-                        Console.WriteLine("\n\n   Вы уже вводили эту букву...");
-                    }*/
-
-
-
-
                 if (check == s.Length)
                 {
                     Console.WriteLine("\n\n   Вы выиграли!");
