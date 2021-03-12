@@ -1,0 +1,13 @@
+D:\C++ C C#\С#\LR 2. Numbers, Dates, Text\LR 2. Dates(try 2)\LR 2. Dates(try 2)\bin\Debug\netcoreapp3.1\LR 2. Dates(try 2).exe
+D:\C++ C C#\С#\LR 2. Numbers, Dates, Text\LR 2. Dates(try 2)\LR 2. Dates(try 2)\bin\Debug\netcoreapp3.1\LR 2. Dates(try 2).deps.json
+D:\C++ C C#\С#\LR 2. Numbers, Dates, Text\LR 2. Dates(try 2)\LR 2. Dates(try 2)\bin\Debug\netcoreapp3.1\LR 2. Dates(try 2).runtimeconfig.json
+D:\C++ C C#\С#\LR 2. Numbers, Dates, Text\LR 2. Dates(try 2)\LR 2. Dates(try 2)\bin\Debug\netcoreapp3.1\LR 2. Dates(try 2).runtimeconfig.dev.json
+D:\C++ C C#\С#\LR 2. Numbers, Dates, Text\LR 2. Dates(try 2)\LR 2. Dates(try 2)\bin\Debug\netcoreapp3.1\LR 2. Dates(try 2).dll
+D:\C++ C C#\С#\LR 2. Numbers, Dates, Text\LR 2. Dates(try 2)\LR 2. Dates(try 2)\bin\Debug\netcoreapp3.1\LR 2. Dates(try 2).pdb
+D:\C++ C C#\С#\LR 2. Numbers, Dates, Text\LR 2. Dates(try 2)\LR 2. Dates(try 2)\obj\Debug\netcoreapp3.1\LR 2. Dates(try 2).csprojAssemblyReference.cache
+D:\C++ C C#\С#\LR 2. Numbers, Dates, Text\LR 2. Dates(try 2)\LR 2. Dates(try 2)\obj\Debug\netcoreapp3.1\LR 2. Dates(try 2).AssemblyInfoInputs.cache
+D:\C++ C C#\С#\LR 2. Numbers, Dates, Text\LR 2. Dates(try 2)\LR 2. Dates(try 2)\obj\Debug\netcoreapp3.1\LR 2. Dates(try 2).AssemblyInfo.cs
+D:\C++ C C#\С#\LR 2. Numbers, Dates, Text\LR 2. Dates(try 2)\LR 2. Dates(try 2)\obj\Debug\netcoreapp3.1\LR 2. Dates(try 2).csproj.CoreCompileInputs.cache
+D:\C++ C C#\С#\LR 2. Numbers, Dates, Text\LR 2. Dates(try 2)\LR 2. Dates(try 2)\obj\Debug\netcoreapp3.1\LR 2. Dates(try 2).dll
+D:\C++ C C#\С#\LR 2. Numbers, Dates, Text\LR 2. Dates(try 2)\LR 2. Dates(try 2)\obj\Debug\netcoreapp3.1\LR 2. Dates(try 2).pdb
+D:\C++ C C#\С#\LR 2. Numbers, Dates, Text\LR 2. Dates(try 2)\LR 2. Dates(try 2)\obj\Debug\netcoreapp3.1\LR 2. Dates(try 2).genruntimeconfig.cache
