@@ -1,0 +1,32 @@
+D:\C++ C C#\C#\LR 4\Laba 4 c#\Lab 4 task 2\Lab 4 task 2\obj\Debug\netcoreapp3.1\Lab 4 task 2.csprojAssemblyReference.cache
+D:\C++ C C#\C#\LR 4\Laba 4 c#\Lab 4 task 2\Lab 4 task 2\obj\Debug\netcoreapp3.1\Lab 4 task 2.AssemblyInfoInputs.cache
+D:\C++ C C#\C#\LR 4\Laba 4 c#\Lab 4 task 2\Lab 4 task 2\obj\Debug\netcoreapp3.1\Lab 4 task 2.AssemblyInfo.cs
+D:\C++ C C#\C#\LR 4\Laba 4 c#\Lab 4 task 2\Lab 4 task 2\obj\Debug\netcoreapp3.1\Lab 4 task 2.csproj.CoreCompileInputs.cache
+D:\C++ C C#\C#\LR 4\Laba 4 c#\Lab 4 task 2\Lab 4 task 2\bin\Debug\netcoreapp3.1\Lab 4 task 2.exe
+D:\C++ C C#\C#\LR 4\Laba 4 c#\Lab 4 task 2\Lab 4 task 2\bin\Debug\netcoreapp3.1\Lab 4 task 2.deps.json
+D:\C++ C C#\C#\LR 4\Laba 4 c#\Lab 4 task 2\Lab 4 task 2\bin\Debug\netcoreapp3.1\Lab 4 task 2.runtimeconfig.json
+D:\C++ C C#\C#\LR 4\Laba 4 c#\Lab 4 task 2\Lab 4 task 2\bin\Debug\netcoreapp3.1\Lab 4 task 2.runtimeconfig.dev.json
+D:\C++ C C#\C#\LR 4\Laba 4 c#\Lab 4 task 2\Lab 4 task 2\bin\Debug\netcoreapp3.1\Lab 4 task 2.dll
+D:\C++ C C#\C#\LR 4\Laba 4 c#\Lab 4 task 2\Lab 4 task 2\bin\Debug\netcoreapp3.1\Lab 4 task 2.pdb
+D:\C++ C C#\C#\LR 4\Laba 4 c#\Lab 4 task 2\Lab 4 task 2\bin\Debug\netcoreapp3.1\Dll.dll
+D:\C++ C C#\C#\LR 4\Laba 4 c#\Lab 4 task 2\Lab 4 task 2\bin\Debug\netcoreapp3.1\Dll.pdb
+D:\C++ C C#\C#\LR 4\Laba 4 c#\Lab 4 task 2\Lab 4 task 2\obj\Debug\netcoreapp3.1\Lab 4 task 2.csproj.CopyComplete
+D:\C++ C C#\C#\LR 4\Laba 4 c#\Lab 4 task 2\Lab 4 task 2\obj\Debug\netcoreapp3.1\Lab 4 task 2.dll
+D:\C++ C C#\C#\LR 4\Laba 4 c#\Lab 4 task 2\Lab 4 task 2\obj\Debug\netcoreapp3.1\Lab 4 task 2.pdb
+D:\C++ C C#\C#\LR 4\Laba 4 c#\Lab 4 task 2\Lab 4 task 2\obj\Debug\netcoreapp3.1\Lab 4 task 2.genruntimeconfig.cache
+D:\C++ C C#\C#\LR 4\lab4 task2\Lab 4 task 2\Lab 4 task 2\bin\Debug\netcoreapp3.1\Lab 4 task 2.exe
+D:\C++ C C#\C#\LR 4\lab4 task2\Lab 4 task 2\Lab 4 task 2\bin\Debug\netcoreapp3.1\Lab 4 task 2.deps.json
+D:\C++ C C#\C#\LR 4\lab4 task2\Lab 4 task 2\Lab 4 task 2\bin\Debug\netcoreapp3.1\Lab 4 task 2.runtimeconfig.json
+D:\C++ C C#\C#\LR 4\lab4 task2\Lab 4 task 2\Lab 4 task 2\bin\Debug\netcoreapp3.1\Lab 4 task 2.runtimeconfig.dev.json
+D:\C++ C C#\C#\LR 4\lab4 task2\Lab 4 task 2\Lab 4 task 2\bin\Debug\netcoreapp3.1\Lab 4 task 2.dll
+D:\C++ C C#\C#\LR 4\lab4 task2\Lab 4 task 2\Lab 4 task 2\bin\Debug\netcoreapp3.1\Lab 4 task 2.pdb
+D:\C++ C C#\C#\LR 4\lab4 task2\Lab 4 task 2\Lab 4 task 2\bin\Debug\netcoreapp3.1\Dll.dll
+D:\C++ C C#\C#\LR 4\lab4 task2\Lab 4 task 2\Lab 4 task 2\bin\Debug\netcoreapp3.1\Dll.pdb
+D:\C++ C C#\C#\LR 4\lab4 task2\Lab 4 task 2\Lab 4 task 2\obj\Debug\netcoreapp3.1\Lab 4 task 2.csprojAssemblyReference.cache
+D:\C++ C C#\C#\LR 4\lab4 task2\Lab 4 task 2\Lab 4 task 2\obj\Debug\netcoreapp3.1\Lab 4 task 2.AssemblyInfoInputs.cache
+D:\C++ C C#\C#\LR 4\lab4 task2\Lab 4 task 2\Lab 4 task 2\obj\Debug\netcoreapp3.1\Lab 4 task 2.AssemblyInfo.cs
+D:\C++ C C#\C#\LR 4\lab4 task2\Lab 4 task 2\Lab 4 task 2\obj\Debug\netcoreapp3.1\Lab 4 task 2.csproj.CoreCompileInputs.cache
+D:\C++ C C#\C#\LR 4\lab4 task2\Lab 4 task 2\Lab 4 task 2\obj\Debug\netcoreapp3.1\Lab 4 task 2.csproj.CopyComplete
+D:\C++ C C#\C#\LR 4\lab4 task2\Lab 4 task 2\Lab 4 task 2\obj\Debug\netcoreapp3.1\Lab 4 task 2.dll
+D:\C++ C C#\C#\LR 4\lab4 task2\Lab 4 task 2\Lab 4 task 2\obj\Debug\netcoreapp3.1\Lab 4 task 2.pdb
+D:\C++ C C#\C#\LR 4\lab4 task2\Lab 4 task 2\Lab 4 task 2\obj\Debug\netcoreapp3.1\Lab 4 task 2.genruntimeconfig.cache
