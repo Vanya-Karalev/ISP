@@ -1,6 +1,0 @@
-D:\C++ C C#\C#\LR 4\lab4.task2\DLL\DLL\bin\Debug\DLL.dll
-D:\C++ C C#\C#\LR 4\lab4.task2\DLL\DLL\bin\Debug\DLL.pdb
-D:\C++ C C#\C#\LR 4\lab4.task2\DLL\DLL\obj\Debug\DLL.csprojAssemblyReference.cache
-D:\C++ C C#\C#\LR 4\lab4.task2\DLL\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
-D:\C++ C C#\C#\LR 4\lab4.task2\DLL\DLL\obj\Debug\DLL.dll
-D:\C++ C C#\C#\LR 4\lab4.task2\DLL\DLL\obj\Debug\DLL.pdb
