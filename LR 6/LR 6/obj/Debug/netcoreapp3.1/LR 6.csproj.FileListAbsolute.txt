@@ -1,0 +1,13 @@
+D:\C++ C C#\C#\LR 6\LR 6\bin\Debug\netcoreapp3.1\LR 6.exe
+D:\C++ C C#\C#\LR 6\LR 6\bin\Debug\netcoreapp3.1\LR 6.deps.json
+D:\C++ C C#\C#\LR 6\LR 6\bin\Debug\netcoreapp3.1\LR 6.runtimeconfig.json
+D:\C++ C C#\C#\LR 6\LR 6\bin\Debug\netcoreapp3.1\LR 6.runtimeconfig.dev.json
+D:\C++ C C#\C#\LR 6\LR 6\bin\Debug\netcoreapp3.1\LR 6.dll
+D:\C++ C C#\C#\LR 6\LR 6\bin\Debug\netcoreapp3.1\LR 6.pdb
+D:\C++ C C#\C#\LR 6\LR 6\obj\Debug\netcoreapp3.1\LR 6.csprojAssemblyReference.cache
+D:\C++ C C#\C#\LR 6\LR 6\obj\Debug\netcoreapp3.1\LR 6.AssemblyInfoInputs.cache
+D:\C++ C C#\C#\LR 6\LR 6\obj\Debug\netcoreapp3.1\LR 6.AssemblyInfo.cs
+D:\C++ C C#\C#\LR 6\LR 6\obj\Debug\netcoreapp3.1\LR 6.csproj.CoreCompileInputs.cache
+D:\C++ C C#\C#\LR 6\LR 6\obj\Debug\netcoreapp3.1\LR 6.dll
+D:\C++ C C#\C#\LR 6\LR 6\obj\Debug\netcoreapp3.1\LR 6.pdb
+D:\C++ C C#\C#\LR 6\LR 6\obj\Debug\netcoreapp3.1\LR 6.genruntimeconfig.cache
